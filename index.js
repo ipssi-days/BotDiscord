@@ -26,4 +26,4 @@ fs.readdir('./Events/', (error, f) => {
     });
 });
 
-client.login('Njg0MzIzMzcxNjkyOTgyMjcz.Xl4cHQ.IlgkXQcOiaaKeh8qN6s4lVyGoCA');
+client.login('xxx'); #tokendiscord
